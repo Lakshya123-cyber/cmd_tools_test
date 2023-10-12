@@ -5,5 +5,5 @@ This is just to test that github works
 ### and this is heading 3
 - maybe this is list 1
 - and this is list 2
-[x] but imagine having checked marks
-[] and not checked marks
+- [x] imagine having checked box
+- [ ] and not checked box also 

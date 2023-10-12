@@ -7,3 +7,5 @@ This is just to test that github works
 - and this is list 2
 - [x] imagine having checked box
 - [ ] and not checked box also 
+<br /><br />
+<p>Maybe I can make a paragraph tag and type a paragraph inside it! <strong>OH IT WORKS OMGG HAHAHA</strong></p>
